@@ -1,0 +1,18 @@
+D:\source\SPACE Programme Task\SPACE Programme Task\bin\Debug\net7.0\SPACE Programme Task.exe
+D:\source\SPACE Programme Task\SPACE Programme Task\bin\Debug\net7.0\SPACE Programme Task.deps.json
+D:\source\SPACE Programme Task\SPACE Programme Task\bin\Debug\net7.0\SPACE Programme Task.runtimeconfig.json
+D:\source\SPACE Programme Task\SPACE Programme Task\bin\Debug\net7.0\SPACE Programme Task.dll
+D:\source\SPACE Programme Task\SPACE Programme Task\bin\Debug\net7.0\SPACE Programme Task.pdb
+D:\source\SPACE Programme Task\SPACE Programme Task\obj\Debug\net7.0\SPACE Programme Task.csproj.AssemblyReference.cache
+D:\source\SPACE Programme Task\SPACE Programme Task\obj\Debug\net7.0\SPACE Programme Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\SPACE Programme Task\SPACE Programme Task\obj\Debug\net7.0\SPACE Programme Task.AssemblyInfoInputs.cache
+D:\source\SPACE Programme Task\SPACE Programme Task\obj\Debug\net7.0\SPACE Programme Task.AssemblyInfo.cs
+D:\source\SPACE Programme Task\SPACE Programme Task\obj\Debug\net7.0\SPACE Programme Task.csproj.CoreCompileInputs.cache
+D:\source\SPACE Programme Task\SPACE Programme Task\obj\Debug\net7.0\SPACE Programme Task.dll
+D:\source\SPACE Programme Task\SPACE Programme Task\obj\Debug\net7.0\refint\SPACE Programme Task.dll
+D:\source\SPACE Programme Task\SPACE Programme Task\obj\Debug\net7.0\SPACE Programme Task.pdb
+D:\source\SPACE Programme Task\SPACE Programme Task\obj\Debug\net7.0\SPACE Programme Task.genruntimeconfig.cache
+D:\source\SPACE Programme Task\SPACE Programme Task\obj\Debug\net7.0\ref\SPACE Programme Task.dll
+D:\source\SPACE Programme Task\SPACE Programme Task\bin\Debug\net7.0\CsvHelper.dll
+D:\source\SPACE Programme Task\SPACE Programme Task\obj\Debug\net7.0\SPACE Programme Task.csproj.CopyComplete
+D:\source\SPACE Programme Task\SPACE Programme Task\bin\Debug\net7.0\DataBase.csv

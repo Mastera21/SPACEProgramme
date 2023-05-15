@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NyvHYrWmq0wXgwsbuT6mMGE9VrRzCRODx+eaf5oU6NFQdggcg9EkFkgRTfr5s0EeQOxKcqcvl00Smpn0nfvbZw==",
+  "success": true,
+  "projectFilePath": "D:\\source\\SPACE Programme Task\\SPACE Programme Task\\SPACE Programme Task.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kokob\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
